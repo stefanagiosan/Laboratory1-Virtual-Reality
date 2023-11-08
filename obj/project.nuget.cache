@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUjVnfSf//jaZDGi47TEZrc87JdhdX55MozPm+00Po4zgbHf3IgducU2ZtNkXVsTMpIG2apzQc2B8UNVUb//DA==",
+  "success": true,
+  "projectFilePath": "S:\\facultate\\anul 3\\sem 1\\virtual reality\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stefa\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\stefa\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.2.23479.14\\system.drawing.common.8.0.0-rc.2.23479.14.nupkg.sha512"
+  ],
+  "logs": []
+}
